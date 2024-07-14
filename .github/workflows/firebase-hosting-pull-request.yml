@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.8.0
+        uses: peaceiris/actions-hugo@v3.0.0
         with: 
           hugo-version: 0.115.4
           extended: true
