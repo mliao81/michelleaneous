@@ -38,4 +38,3 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BLOWFISH_TUTORIAL }}'
           channelId: live
           projectId: blowfish-tutorial
-
