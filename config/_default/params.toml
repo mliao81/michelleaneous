@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["section1", "section2"]
+mainSections = ["projects"]
 # robots = ""
 
 disableImageOptimization = false
@@ -38,11 +38,11 @@ disableTextInHeader = false
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
+  showRecent = true
+  showRecentItems = 10
   showMoreLink = false
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -73,7 +73,7 @@ disableTextInHeader = false
   # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
@@ -87,7 +87,7 @@ disableTextInHeader = false
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true # might have to change to false
   cardView = true
@@ -95,7 +95,7 @@ disableTextInHeader = false
   constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+  excludedKinds = []
 
 [taxonomy]
   showTermCount = true
@@ -120,12 +120,12 @@ disableTextInHeader = false
 
 [firebase]
   # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
+  authDomain = "michelleaneous-8be48.firebaseapp.com"
+  projectId = "G-8CW973PJX8"
   # storageBucket = "XXXXXX"
   # messagingSenderId = "XXXXXX"
   # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  measurementId = "G-8CW973PJX8"
 
 [fathomAnalytics]
   # site = "ABC12345"
