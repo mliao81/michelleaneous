@@ -2,7 +2,7 @@
 title: "FIRST Robotics 2024"
 date: 2024-08-15
 draft: false
-summary: "A year in review"
+summary: "A year in review."
 ---
 
 # 7419 T.E.C.H Support
