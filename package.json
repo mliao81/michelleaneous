@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "some-dependency": "^0.0.1-security"
+  },
+  "dependencies": {
+    "firebase": "^10.12.4"
   }
 }
