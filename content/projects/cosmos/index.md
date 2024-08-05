@@ -7,7 +7,7 @@ summary: "Building a smart white cane"
 
 ## BeepBeep
 
-For our [COSMOS](https://cosmos-ucop.ucdavis.edu/app/main) 2024 Cluster 8 (Internet of Things) final project, Jessie Luo and I prototyped BeepBeep, an IoT device that utilizes four different sensors to turn a white cane smart.
+For our [COSMOS 2024 Cluster 8 (Internet of Things)](https://cosmos.sf.ucdavis.edu/cluster-8-internet-things) final project, Jessie Luo and I prototyped BeepBeep, an IoT device that utilizes four different sensors to turn a white cane smart.
 
 We programmed our device with the Arduino, although we spent most of the program learning with the Ti MSP432.
 
