@@ -1,8 +1,8 @@
 ---
 title: "FIRST Robotics 2024"
 date: 2024-08-15
-draft: true
-summary: "A year in review."
+draft: false
+summary: "A year in review"
 ---
 
 # T.E.C.H Support
@@ -11,11 +11,7 @@ This year I joined my school's FIRST Robotics team (FRC), 7419 T.E.C.H Support a
 
 ## Shop
 
-Shop hours were the highlight of this year, the excitement of getting to work on the robot after hours of sitting at a chair.
-
-Learned a lot of new things intertwined with funny moments with friends.
-
-Blowing sawdust off the CNC is very satisfying.
+Shop hours were the highlight of this year, the excitement of getting to work on the robot after hours of sitting at a chair. Learned a lot of new things intertwined with funny moments with friends. Blowing sawdust off the CNC is very satisfying.
 
 The usual work setup after shop hours.
 ![Messy table](images/messyshop.jpg)
